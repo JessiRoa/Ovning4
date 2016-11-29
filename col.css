@@ -1,0 +1,52 @@
+    #bakom {
+        background-color: grey;
+        border: solid;
+        overflow: hidden;
+    }
+    
+    .fa fa-plus-circle {
+        font-size: 50px;
+        color: lightseagreen;
+    }
+    
+    .fa fa- th-large nav {
+        font-size: 50px;
+        color: lightseagreen;
+    }
+    
+    .fa fa- th nav {
+        font-size: 50px;
+        color: grey;
+    }
+    
+    #ul {
+        display: inline;
+        list-style-type: none;
+    }
+    
+    .iconDer {
+        float: right;
+        margin: 0px 40px 0px 0px
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    img {
+        width: 190px;
+        height: 150px;
+    }
+    
+    .imgCol {
+        width: 220px;
+        margin: 5px 5px 35px 5px;
+        float: left;
+    }
+    
+    .fond div {
+        background-color: lightseagreen;
+        padding: 40px 30px 0px 60px;
+        margin-right: 2px;
+        margin-left: 19px;
+    }
